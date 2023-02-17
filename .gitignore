@@ -8,3 +8,7 @@ config.yaml
 
 # Coverage
 coverage.*
+
+# Env
+.env
+docker/bdjuno/config.yaml
